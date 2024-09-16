@@ -1,0 +1,15 @@
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.AssemblyInfoInputs.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.AssemblyInfo.cs
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.csproj.CoreCompileInputs.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.sourcelink.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\bin\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.exe
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\bin\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.deps.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\bin\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.runtimeconfig.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\bin\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\bin\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.pdb
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.pdb
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\mis-221-lab-3-2nd-link-wncreech.genruntimeconfig.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-3-2nd-link-wncreech\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-wncreech.dll
